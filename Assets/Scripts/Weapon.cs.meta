@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 51145947e4574f14ea58e37048f0f397
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - weaponPrefab: {fileID: 1482296647049001295, guid: 558f39972486a664ba3e7420c93c8793, type: 3}
+  - handPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
