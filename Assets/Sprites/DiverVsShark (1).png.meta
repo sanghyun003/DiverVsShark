@@ -1,40 +1,43 @@
 fileFormatVersion: 2
-guid: fd062e56e8d9e91438a5071099bd98bd
+guid: c3a58d256292efe4ead2459035c6b20c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2426247898913295956
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_0
+      213: -232620607247406887
+    second: DiverVsShark (1)_0
   - first:
-      213: 8128023473613998802
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_1
+      213: 1553077474444526536
+    second: DiverVsShark (1)_1
   - first:
-      213: 3443131163254163752
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_2
+      213: -7271034845263534839
+    second: DiverVsShark (1)_2
   - first:
-      213: -8231757809027688036
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_3
+      213: -8441032250551072076
+    second: DiverVsShark (1)_3
   - first:
-      213: -8678449545768503834
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_4
+      213: -6034373329239859152
+    second: DiverVsShark (1)_4
   - first:
-      213: -3418778293902807682
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_5
+      213: 6072325202026303492
+    second: DiverVsShark (1)_5
   - first:
-      213: -5668068625592573997
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_6
+      213: -6144060082271721214
+    second: DiverVsShark (1)_6
   - first:
-      213: -3697837753430330086
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_7
+      213: 2742224894887308013
+    second: DiverVsShark (1)_7
   - first:
-      213: 2711532048496549807
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_8
+      213: 2869897637850259967
+    second: DiverVsShark (1)_8
   - first:
-      213: -7979617873496158617
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_9
+      213: 5908677512206022784
+    second: DiverVsShark (1)_9
   - first:
-      213: -8063091798836147978
-    second: db370521-4aa6-4832-ab79-685f3a1c65df_10
+      213: 6176198926176683573
+    second: DiverVsShark (1)_10
+  - first:
+      213: 2026534964212732340
+    second: DiverVsShark (1)_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -130,13 +133,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: db370521-4aa6-4832-ab79-685f3a1c65df_0
+      name: DiverVsShark (1)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1536
-        height: 1024
+        x: 527
+        y: 460
+        width: 424
+        height: 375
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,8 +148,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ca13c38046c345ed0800000000000000
-      internalID: -2426247898913295956
+      spriteID: 9d825994ac095ccf0800000000000000
+      internalID: -232620607247406887
       vertices: []
       indices: 
       edges: []
@@ -155,7 +158,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 55c3b11e9bc70a74b8b9e0464c67d0d9
+    spriteID: a181494119df412469fe93449e22c62c
     internalID: 0
     vertices: []
     indices: 
@@ -167,7 +170,7 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1536.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      db370521-4aa6-4832-ab79-685f3a1c65df_0: -2426247898913295956
+      DiverVsShark (1)_0: -232620607247406887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
